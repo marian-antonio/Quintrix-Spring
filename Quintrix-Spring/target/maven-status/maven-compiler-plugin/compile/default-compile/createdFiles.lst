@@ -1,0 +1,6 @@
+com\quintrix\jfs\QuintrixSpring\QuintrixSpringApplication.class
+com\quintrix\jfs\QuintrixSpring\controller\HelloController.class
+com\quintrix\jfs\QuintrixSpring\models\Car.class
+com\quintrix\jfs\QuintrixSpring\controller\CarController.class
+com\quintrix\jfs\QuintrixSpring\service\CarsService.class
+com\quintrix\jfs\QuintrixSpring\ServletInitializer.class
